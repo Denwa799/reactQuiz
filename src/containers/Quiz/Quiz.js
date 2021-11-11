@@ -93,6 +93,10 @@ class Quiz extends Component {
         })
     }
 
+    componentDidMount() {
+
+    }
+
     render() {
         return (
             <div className={classes.Quiz}>
